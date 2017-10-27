@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="app-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/bundles/default/libs/xstream-1.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/bundles/default/libs/universal-image-loader-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/bundles/default/libs/httpmime-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/bundles/default/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/bundles/default/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

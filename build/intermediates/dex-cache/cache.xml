@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\app\build\intermediates\bundles\default\libs\xstream-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f213eeefb3ae748039c5688a383bb88defc8d0b">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\debug\xstream-1.4.6_a1a4e263938ec49b79b69f1f6c10168d14be737d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\universalprintservice\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad83409b5c02e6821b8afc9d535449b531a87cf0">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\debug\classes_4f19c1252d608e57ede24eb20fdc27f2a9d8460e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\wheel\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="721a84e5ef05c8736fd923bb2b83f2bcc625cee6">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\debug\classes_41d76acc71f46138b4a43562464a0b6fc4eeec94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\app\build\intermediates\bundles\default\libs\httpmime-4.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7153f9bf83cf2713bbf5720f937aa5a22a87857a">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\debug\httpmime-4.2.2_4746360ea2ff91fcfe9e44d32875d61c3ea6f0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3309b0ec155798aea0bf1972ffa181f3601aba1">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\release\classes_1c8d6aa53f713a3d88f396bdf5c0e6b2006e2222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AndroidStudio\Mayor-v2\app\build\intermediates\bundles\default\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fea5d8d1b5da926c7e3003bcb7aa8515b9764a8">
+        <dex dex="D:\Workspace\AndroidStudio\Mayor-v2\asamblea\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1_2981c55bf6a8ebd5487ab50ca0fc1277d3a449ab.jar" />
+    </item>
+
+</items>
